@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="008f829d-929b-4f1c-ac07-d3692e491a9e" name="Generic H2 (Embedded)" url="jdbc:h2:mem:meuBancoDeDados" driverClass="org.h2.Driver" />
+    </data-sources>
+  </component>
+</project>
