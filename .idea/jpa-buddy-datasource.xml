@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="e4ae61b8-6405-4064-8c1b-cc4cd946b247" name="green-dog-delivery" url="jdbc:h2:file:~/h2/green-dog-delivery" driverClass="org.h2.Driver" />
+    </data-sources>
     <data-source-infos>
       <data-source-info id="" persistence-unit-name="Default" />
     </data-source-infos>
